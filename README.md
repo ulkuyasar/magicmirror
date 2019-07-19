@@ -1,2 +1,2 @@
-# magicmirror
-sihirli aynamizin kodlari
+sihirli ayna
+Ülkü Yaşar Yılmaz
