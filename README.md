@@ -1,0 +1,2 @@
+# magicmirror
+sihirli aynamizin kodlari
