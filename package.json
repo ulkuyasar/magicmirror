@@ -64,6 +64,7 @@
     "helmet": "^3.9.0",
     "iconv-lite": "latest",
     "moment": "latest",
+    "node-helper": "^0.1.1",
     "request": "^2.88.0",
     "rrule": "^2.6.2",
     "rrule-alt": "^2.2.8",
